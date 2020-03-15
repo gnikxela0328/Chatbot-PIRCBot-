@@ -1,5 +1,5 @@
 # Chatbot-PIRCBot-
-Chat bot made for CS 2336
+Chat bot
 
 Use MyBotMain.java as the driver for the program
 
